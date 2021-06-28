@@ -1,0 +1,6 @@
+*.CSV
+*.xlsx
+*.txt
+HW*/
+.ipynb_checkpoints/
+desktop.ini
